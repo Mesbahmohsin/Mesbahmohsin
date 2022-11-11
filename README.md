@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mesbahmohssine
-- 👀 I’m interested in front end web developement.
-- 🌱 I’m currently learning java script...
+- 👀 I’m interested in front end web developement. game developement ,
+- 🌱 I’m currently learning java scriptand c# and unity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/Mesbahmohsin.. 
 
